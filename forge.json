@@ -1,4 +1,4 @@
 {
   "install": "npm i remix-auth",
-  "cleanup": "rm -rf .server"
+  "cleanup": "node cleanup.js"
 }
