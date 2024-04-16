@@ -1,3 +1,4 @@
 {
-  "install": "npm i remix-auth"
+  "install": "npm i remix-auth",
+  "cleanup": "rm -rf .server"
 }
