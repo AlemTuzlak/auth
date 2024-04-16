@@ -1,4 +1,4 @@
-import fs from "fs";
+const fs = require("fs");
 
 fs.unlink("cleanup.js", (err) => {
   if (err) {
